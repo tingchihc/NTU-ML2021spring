@@ -52,3 +52,7 @@ the example about to spam filtering:
   <img src="https://latex.codecogs.com/svg.image?y&space;=&space;b&space;&plus;&space;\sum_{i}^{}C_{i}*sigmoid(b_{i}&plus;W_{i}X_{1})" title="y = b + \sum_{i}^{}C_{i}*sigmoid(b_{i}+W_{i}X_{1})" />
   <img src="https://latex.codecogs.com/svg.image?y&space;=&space;b&space;&plus;&space;\sum_{i}^{}C_{i}*sigmoid(b_{i}&plus;\sum_{j}W_{ij}X_{j})" title="y = b + \sum_{i}^{}C_{i}*sigmoid(b_{i}+\sum_{j}W_{ij}X_{j})" />
   * i = no. of features, j = no. of sigmoid
+
+## Sigmoid -> ReLu (activation function)
+  * 2 * ReLu(Rectified Linear Unit) = hard Sigmoid
+  * <img src="https://latex.codecogs.com/svg.image?ReLU&space;=&space;c*max(0,b&plus;WX_{1})" title="ReLU = c*max(0,b+WX_{1})" />
