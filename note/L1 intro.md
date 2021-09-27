@@ -28,4 +28,15 @@ the example about to spam filtering:
   * L(0.5k,1): y = b + w*x1 -> y = 0.5k + 1*x1
   * notation: y = the predicted value, label: <img src="https://latex.codecogs.com/svg.image?\hat{y}" title="\hat{y}" /> = the true value, 
   * <img src="https://latex.codecogs.com/svg.image?^{e_{1}}" title="^{e_{1}}" /> = <img src="https://latex.codecogs.com/svg.image?\hat{y}" title="\hat{y}" /> - y
-  * Loss function: 
+  * functions to get e: mean absolute error, mean square error, and cross-entropy
+  * Loss function: 1/N * Sigma(<img src="https://latex.codecogs.com/svg.image?^{e_{n}}" title="^{e_{n}}" />)
+
+## 3. Optimization
+  * find w, b to minimize loss function  
+  * function:  
+    * Gradient Descent: <img src="https://latex.codecogs.com/svg.image?w^{1}&space;{\leftarrow}&space;w^{0}&space;-&space;\eta&space;\frac{\partial&space;L&space;}{\partial&space;W}&space;\mid&space;w&space;=&space;w^{0}" title="w^{1} {\leftarrow} w^{0} - \eta \frac{\partial L }{\partial W} \mid w = w^{0}" />
+    * <img src="https://latex.codecogs.com/svg.image?\eta" title="\eta" /> = learning rate  
+    
+## Training = step1 + step2 + step3
+  * Linear models: y = b + Sigma(W*X)  
+  * Linear models have severe limitation. -> **Model Bias**
