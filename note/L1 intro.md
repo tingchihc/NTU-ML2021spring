@@ -1,3 +1,5 @@
+Slide: https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/regression%20(v16).pdf
+
 # Different types of functions:  
 
 * Regression: the function outputs a scalar.  
