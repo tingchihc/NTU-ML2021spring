@@ -45,5 +45,5 @@ the example about to spam filtering:
   * Approximate continuous curve by a piecewise linear curve
   * To have good approximation, we need sufficient pieces.
   * How to represent this function? 
-  * Ans: Sigmoid function: y = c*<img src="https://latex.codecogs.com/svg.image?\frac{1}{1&plus;e^{-(b&plus;wX1)}}" title="\frac{1}{1+e^{-(b+wX1)}}" />
+  * Ans: Sigmoid function: y = <img src="https://latex.codecogs.com/svg.image?\frac{c}{1&plus;e^{-(b&plus;wX1)}}" title="\frac{c}{1+e^{-(b+wX1)}}" />
   * y = c*sigmoid(b+wx1)
