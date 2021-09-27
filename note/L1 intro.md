@@ -56,3 +56,9 @@ the example about to spam filtering:
 ## Sigmoid -> ReLu (activation function)
   * 2 * ReLu(Rectified Linear Unit) = hard Sigmoid
   * <img src="https://latex.codecogs.com/svg.image?ReLU&space;=&space;c*max(0,b&plus;WX_{1})" title="ReLU = c*max(0,b+WX_{1})" />
+
+## Rename in the ML
+  * sigmoid, ReLu... are called Neuron
+  * many Neurons mean Neuron Network
+  * many layers mean Deep -> Deep Learning
+  * Deep = Many hidden layers
