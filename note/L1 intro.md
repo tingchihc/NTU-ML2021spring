@@ -47,3 +47,8 @@ the example about to spam filtering:
   * How to represent this function? 
   * Ans: Sigmoid function: y = <img src="https://latex.codecogs.com/svg.image?\frac{c}{1&plus;e^{-(b&plus;wX1)}}" title="\frac{c}{1+e^{-(b+wX1)}}" />
   * y = c*sigmoid(b+wx1)
+
+## New Model: more features
+  <img src="https://latex.codecogs.com/svg.image?y&space;=&space;b&space;&plus;&space;\sum_{i}^{}C_{i}*sigmoid(b_{i}&plus;W_{i}X_{1})" title="y = b + \sum_{i}^{}C_{i}*sigmoid(b_{i}+W_{i}X_{1})" />
+  <img src="https://latex.codecogs.com/svg.image?y&space;=&space;b&space;&plus;&space;\sum_{i}^{}C_{i}*sigmoid(b_{i}&plus;\sum_{j}W_{ij}X_{j})" title="y = b + \sum_{i}^{}C_{i}*sigmoid(b_{i}+\sum_{j}W_{ij}X_{j})" />
+  * i = no. of features, j = no. of sigmoid
