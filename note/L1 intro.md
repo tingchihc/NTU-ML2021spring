@@ -40,3 +40,10 @@ the example about to spam filtering:
 ## Training = step1 + step2 + step3
   * Linear models: y = b + Sigma(W*X)  
   * Linear models have severe limitation. -> **Model Bias**
+
+## Solve the model bias  
+  * Approximate continuous curve by a piecewise linear curve
+  * To have good approximation, we need sufficient pieces.
+  * How to represent this function? 
+  * Ans: Sigmoid function: y = c*<img src="https://latex.codecogs.com/svg.image?\frac{1}{1&plus;e^{-(b&plus;wX1)}}" title="\frac{1}{1+e^{-(b+wX1)}}" />
+  * y = c*sigmoid(b+wx1)
