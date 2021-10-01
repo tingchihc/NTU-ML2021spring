@@ -1,3 +1,5 @@
+slide: https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/overfit-v6.pdf
+
 # Framework ML
 
 * Training data: <img src="https://latex.codecogs.com/svg.image?\left\{(x_{1},\hat{y_{1}}),&space;(x_{n},\hat{y_{n}})\right\}" title="\left\{(x_{1},\hat{y_{1}}), (x_{n},\hat{y_{n}})\right\}" />  
