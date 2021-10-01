@@ -40,5 +40,5 @@ slide: https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/optimizer_v4.pd
   Residual Network (ref. https://arxiv.org/abs/1512.03385)  
   Transformer (ref. https://arxiv.org/abs/1706.03762)  
 
-![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/svl.png)
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/summary%20of%20optimization.png)
 
