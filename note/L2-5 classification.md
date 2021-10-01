@@ -4,6 +4,6 @@ slide: https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/classification_
 
   ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/classification.png)
 
-  * In Classification, y is not a value, is a vector.  
+## In Classification, y is not a value, is a vector.  
   
    ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/classification.png)
