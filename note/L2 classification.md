@@ -31,3 +31,22 @@
   
 ## 3. Optimization Issue
   * Large loss not always imply model bias. for example: gradient descent local minimum problem
+
+## 4. How can I know that model has model bias problem or optimization problem?  
+  * ref. http://arxiv.org/abs/1512.03385  
+  * If deeper networks do not obtain smaller loss on training data, then there is optimization issue.  
+  * Solution: more powerful optimization technology  
+
+## 5. Overfitting
+  * loss in training data is small but in testing data is large  
+  * Solution:  
+    * 1. more training data  
+    * 2. data augmentation  
+    * 3. constrained model  
+
+| constrained model  | methods |
+| -------------------| ------- |
+| 1. less parameters, sharing parameters  | ex: fully-connected, CNN  |
+| 2. less features  | 3. early stopping  |
+| 4. regularization | 5. dropout         |
+    
