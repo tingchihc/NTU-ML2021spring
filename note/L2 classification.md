@@ -44,9 +44,14 @@
     * 2. data augmentation  
     * 3. constrained model  
 
-| constrained model  | methods |
-| -------------------| ------- |
-| 1. less parameters, sharing parameters  | ex: fully-connected, CNN  |
-| 2. less features  | 3. early stopping  |
-| 4. regularization | 5. dropout         |
+ | methods | example |
+| ------- | ------- |
+|  1. less parameters, sharing parameters |ex: fully-connected, CNN |
+| 2. less features | |
+| 3. early stopping ||
+|4. regularization  |  |
+| 5. dropout  |  |
     
+  * If contrain too much, back to model bias  
+
+## 6. Cross Validation
