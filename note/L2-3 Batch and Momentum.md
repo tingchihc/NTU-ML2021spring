@@ -13,7 +13,4 @@ slide p.17: https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/small-grad
   |See all examples          |See only one example|
   |Long time for cooldown, but powerful|Short time for cooldown, but noisy|
   
-  ```diff
-  - Large batch size does not require longer time to compute gradient(unless batch size is too large)
-
-  ```
+  
