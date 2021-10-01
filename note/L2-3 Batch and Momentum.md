@@ -12,3 +12,11 @@ slide p.17: https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/small-grad
  * Small batch is better on testing data
  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/svl.png)
+
+## 2. Momentum
+Slide p.32-p.35
+
+ * Critical points have zero gradients.  
+ * Critical points can be either saddle points or local minima.  
+ * Local minima may be rare.  
+ * Smaller batch size and momentum help escape critical poins.  
