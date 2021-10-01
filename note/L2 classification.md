@@ -58,4 +58,4 @@
   * To split the training set into two groups: training set and validation set  
   * Using the results of public testing data to select your model  
   * method: N-fold Cross Validation:  
-  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/general%20guide.png)
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/n-fold%20cross%20validation.png)
