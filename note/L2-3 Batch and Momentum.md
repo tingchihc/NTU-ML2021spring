@@ -11,3 +11,4 @@ slide p.17: https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/small-grad
  * "Noisy" update is better for training
  * Small batch is better on testing data
  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/svl.png)
