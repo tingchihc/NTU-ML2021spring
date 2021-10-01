@@ -1,20 +1,24 @@
 # Framework ML
 
-* Training data: {()}
+* Training data: <img src="https://latex.codecogs.com/svg.image?\left\{(x_{1},\hat{y_{1}}),&space;(x_{n},\hat{y_{n}})\right\}" title="\left\{(x_{1},\hat{y_{1}}), (x_{n},\hat{y_{n}})\right\}" />  
+* Testing data: <img src="https://latex.codecogs.com/svg.image?\left\{x_{n&plus;1},x_{n&plus;m}\right\}" title="\left\{x_{n+1},x_{n+m}\right\}" />  
   
-* Classification: given options(classes), the function outputs the correct one.  
-the example about to spam filtering:  
-  input: email  
-  output: yes/no  
+*  Speech recognition, Image recognition, Speaker recognition, Machine translation  
 
-* and more(structured learning...)  
+* Step1. function with unknown  
+  * <img src="https://latex.codecogs.com/svg.image?y&space;=&space;f_{\theta&space;}^{}(x)" title="y = f_{\theta }^{}(x)" />  
+  * theta means all unknown parameters  
 
-# How to find a function?  
+* Step2. define loss function  
+  * <img src="https://latex.codecogs.com/svg.image?L(\theta&space;)" title="L(\theta )" />  
 
-## 1. function with unknown parameters
-  * y = f(x) = b + w*x1 (based on domain knowledge)
-  * w and b are unknown parameters(learning from data)  
-  * Model = y
-  * feature = x1
-  * weight = w
-  * bias = b
+* Step3. optimization  
+  * <img src="https://latex.codecogs.com/svg.image?\theta&space;_{}^{*}&space;=&space;arg&space;\underset{\theta&space;}{min}L" title="\theta _{}^{*} = arg \underset{\theta }{min}L" />  
+  *  find the min theta to optimize   
+
+* Use theta star to label the testing data
+
+# How to check and optimize ML?  
+
+## 1. General guide
+  ![Image of Yaktocat]()
