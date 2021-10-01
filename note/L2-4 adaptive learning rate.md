@@ -27,3 +27,13 @@ slide: https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/optimizer_v4.pd
 ## 3. Adam: RMSProp + Momentum
 
   * ref.: https://arxiv.org/pdf/1412.6980.pdf  
+
+## 4. Learning Rate Scheduling  
+
+  * Learning rate decay  
+    * As the training goes, we are closer to the destination, so we reduce the learning rate.  
+  * Warm up  
+    * increase and then decrease?  
+  
+  Residual Network (ref. heeps://arxiv.org/abs/1512.03385)  
+  Transformer (ref. https://arxiv.org/abs/1706.03762)  
