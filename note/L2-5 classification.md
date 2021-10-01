@@ -16,3 +16,4 @@ slide: https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/classification_
 
 ## Loss of Classification -> Cross entropy  
 
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/loss%20of%20classification.png)
