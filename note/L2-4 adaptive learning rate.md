@@ -35,5 +35,5 @@ slide: https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/optimizer_v4.pd
   * Warm up  
     * increase and then decrease?  
   
-  Residual Network (ref. heeps://arxiv.org/abs/1512.03385)  
+  Residual Network (ref. https://arxiv.org/abs/1512.03385)  
   Transformer (ref. https://arxiv.org/abs/1706.03762)  
