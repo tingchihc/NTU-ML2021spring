@@ -17,3 +17,13 @@ slide: https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/optimizer_v4.pd
  Smaller <img src="https://latex.codecogs.com/svg.image?\sigma&space;_{i}^{t}&space;" title="\sigma _{i}^{t} " /> larger step  
  
  Larger <img src="https://latex.codecogs.com/svg.image?\sigma&space;_{i}^{t}&space;" title="\sigma _{i}^{t} " /> smaller step  
+
+## 2. RMSProp  
+
+  * Slide p.9  
+  * designer can adjust the parameters to dependent on the importance.  
+  * We can dynamically adjust the parameters when the gradient has large influence or less influence.  
+
+## 3. Adam: RMSProp + Momentum
+
+  * ref.: https://arxiv.org/pdf/1412.6980.pdf  
