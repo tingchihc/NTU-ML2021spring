@@ -21,4 +21,4 @@
 # How to check and optimize ML?  
 
 ## 1. General guide
-  ![Image of Yaktocat]()
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/general%20guide.png)
