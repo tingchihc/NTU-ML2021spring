@@ -11,3 +11,5 @@ slide: https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/classification_
 ## What is Soft-Max  
 
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/softmax.png)
+
+## How about binary classification? Ans: Sigmoid
