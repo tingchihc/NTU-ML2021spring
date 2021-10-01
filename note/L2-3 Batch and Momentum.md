@@ -6,11 +6,8 @@ slide p.17: https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/small-grad
 
 ## 1. Small Batch & Large Batch
 
-  * Consider 20 examples(N=20)
-  
-  |Batch size = N(Full batch)|Batch size = 1|
-  |--------------------------|--------------|
-  |See all examples          |See only one example|
-  |Long time for cooldown, but powerful|Short time for cooldown, but noisy|
-  
-  
+ * Smaller batch size has better performance
+ * What's wrong with large batch size? A: Optimization Fails
+ * "Noisy" update is better for training
+ * Small batch is better on testing data
+ 
