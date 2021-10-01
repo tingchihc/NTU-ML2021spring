@@ -34,6 +34,8 @@ slide: https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/optimizer_v4.pd
     * As the training goes, we are closer to the destination, so we reduce the learning rate.  
   * Warm up  
     * increase and then decrease?  
+    * At the beginning, the estimate of sigma(t,i) has large variance.  
+    * RAdam (ref. https://arxiv.org/abs/1908.03265)
   
   Residual Network (ref. https://arxiv.org/abs/1512.03385)  
   Transformer (ref. https://arxiv.org/abs/1706.03762)  
