@@ -21,4 +21,13 @@
 # How to check and optimize ML?  
 
 ## 1. General guide
-  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/general%20guide.png)
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/general%20guide.png)  
+  
+  
+## 2. Model bias
+  * The model is too simple. None of one function can reduce loss function.  
+  * Solution: redesign your model model to make it more flexible.  
+  * Deep Learning (more neurons, layers, features)
+  
+## 3. Optimization Issue
+  * Large loss not always imply model bias. for example: gradient descent local minimum problem
