@@ -51,8 +51,8 @@ slide: https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/overfit-v6.pdf
 |  1. less parameters, sharing parameters |ex: fully-connected, CNN |
 | 2. less features | |
 | 3. early stopping ||
-|4. regularization  |  |
-| 5. dropout  |  |
+|4. regularization  | do not reduce the numbers of features, but reduce the weight about unimportant features |
+| 5. dropout  | using Model combination, weight sharing to reduce thr probability of overfitting |
     
   * If contrain too much, back to model bias  
 
