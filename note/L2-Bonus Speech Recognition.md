@@ -45,3 +45,7 @@
   * vector -> log -> Discrete Cosine Transform(DCT) -> MFCC  
 
 ## in 2019, filter bank output is the main method.  
+## Two points of views  
+ 
+ * seq-to-seq  
+ * HMM  
