@@ -60,3 +60,4 @@
  * input -> {x1,x2,x3,...,xn} acoustic features  
  * output -> {h1,h2,h3,...,hn} high-level representations  
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/listen(CNNRNN).png)
+ ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/listen(selfattention).png)
