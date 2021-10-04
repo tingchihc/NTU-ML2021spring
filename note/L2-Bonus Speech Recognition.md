@@ -56,9 +56,11 @@
 ## Listen, Attend, and Spell(LAS)  
 
  * Listen -> Encoder, Spell -> Decoder (It is the typical seq2seq with attention.)  
- * In the Listen part, we will extract content information, remove speaker variance and remove noises.  
+ 
+ ## In the Listen part, we will extract content information, remove speaker variance and remove noises.  
  * input -> {x1,x2,x3,...,xn} acoustic features  
  * output -> {h1,h2,h3,...,hn} high-level representations  
- ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/listen(CNNRNN).png)
- ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/listen(selfattention).png)
  * Listen - Down Sampling: to resample in a multi-rate digital signal processing system.  
+ * Down Sampling methods: Time-delay DNN, Truncated Self-attention  
+ ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/listen(CNNRNN).png)  
+ ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/listen(selfattention).png)  
