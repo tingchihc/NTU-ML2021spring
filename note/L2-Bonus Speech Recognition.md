@@ -70,5 +70,8 @@
  * encoder output: h(database)  
  * function match: input(z0,h) , output(alpha(^1,_0))  
  * Attention methods: Dot-product attention and Additive attention.  
+ * C0: Context vector  
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/dot%20attention.png)
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/additive%20attention.png)  
+ ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/attention.png)
+
