@@ -50,3 +50,13 @@
  
  * seq-to-seq  
  * HMM  
+
+# Models to be introduced #  
+
+## Listen, Attend, and Spell(LAS)  
+
+ * Listen -> Encoder, Spell -> Decoder (It is the typical seq2seq with attention.)  
+ * In the Listen part, we will extract content information, remove speaker variance and remove noises.  
+ * input -> {x1,x2,x3,...,xn} acoustic features  
+ * output -> {h1,h2,h3,...,hn} high-level representations  
+ * 
