@@ -59,4 +59,4 @@
  * In the Listen part, we will extract content information, remove speaker variance and remove noises.  
  * input -> {x1,x2,x3,...,xn} acoustic features  
  * output -> {h1,h2,h3,...,hn} high-level representations  
- ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/loss%20of%20classification.png)
+ ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/listen(CNNRNN).png)
