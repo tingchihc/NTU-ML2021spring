@@ -80,3 +80,8 @@
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/30.png)
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/31.png)
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/32.png)
+
+## Beam Search  
+ * Keep B best pathes at each step.  
+ * B(Beam size) = 2  
+ ![Image of Yaktocat]()
