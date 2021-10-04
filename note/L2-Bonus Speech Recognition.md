@@ -3,6 +3,7 @@
 ## The lecture video is from prof. Hung-yi Lee.(DLHLP 2020) Speech Recognition  
 
   * YT: https://www.youtube.com/watch?v=AIKu43goh-8  
+  * Slide: https://speech.ee.ntu.edu.tw/~tlkagk/courses/DLHLP20/ASR%20(v12).pdf  
 
 ## note  
 
