@@ -76,7 +76,7 @@
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/attention.png)
 
 ## In the Spell part
- ![Image of Yaktocat]()
- ![Image of Yaktocat]()
- ![Image of Yaktocat]()
- ![Image of Yaktocat]()
+ ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/29.png)
+ ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/30.png)
+ ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/31.png)
+ ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/32.png)
