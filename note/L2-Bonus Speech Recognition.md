@@ -91,3 +91,8 @@
   * Step2. to compute the cross-entropy about one-hot vector and distribution over all tokens.  
   * Overall, computing loss function(cross-entropy), we hope to enhance the probability of c.  
   ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/training.png)
+
+## why Teacher Forcing?  
+  * We do not inform the incorrect answer to next layer because the model will not predict the true answer in next token.  
+  * The correct method is that the model use the ground truth in next layer.  
+  
