@@ -84,4 +84,10 @@
 ## Beam Search  
  * Keep B best pathes at each step.  
  * B(Beam size) = 2  
- ![Image of Yaktocat]()
+ ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/beam%20search.png)  
+ 
+ ## Training
+  * Step1. in the cat example, using one-hot vector, we make that C is 1 and the others are 0.  
+  * Step2. to compute the cross-entropy about one-hot vector and distribution over all tokens.  
+  * Overall, computing loss function(cross-entropy), we hope to enhance the probability of c.  
+  ![Image of Yaktocat]()
