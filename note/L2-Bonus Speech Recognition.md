@@ -53,7 +53,7 @@
 
 # Models to be introduced #  
 
-## Listen, Attend, and Spell(LAS)  
+# Listen, Attend, and Spell(LAS)  
 
  * Listen -> Encoder, Spell -> Decoder (It is the typical seq2seq with attention.)  
  
@@ -96,3 +96,9 @@
   * We do not inform the incorrect answer to next layer because the model will not predict the true answer in next token.  
   * The correct method is that the model use the ground truth in next layer.  
   
+## Limitation of LAS  
+  * LAS outputs the first token after listening the whole input.  
+  * Users except on-line speech recognition.  
+
+# Connectionist Temporal Classification(CTC)
+
