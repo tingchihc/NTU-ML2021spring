@@ -64,3 +64,10 @@
  * Down Sampling methods: Time-delay DNN, Truncated Self-attention  
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/listen(CNNRNN).png)  
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/listen(selfattention).png)  
+
+## In the Attention part  
+ * vector: z0(keyword)  
+ * encoder output: h(database)  
+ * function match: input(z0,h) , output(alpha(^1,_0))  
+ * Attention methods: Dot-product attention and Additive attention.  
+ 
