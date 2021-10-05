@@ -102,3 +102,21 @@
 
 # Connectionist Temporal Classification(CTC)
 
+## For online streaming speech recognition, use uni-directional RNN  
+  * token size = V + 1(null)  
+  * input: T acoustic features  
+  * output: T tokens(ignoring down sampling)  
+  * output tokens including null, merging duplicate tokens, removing null.  
+
+## Issue  
+  * "Decoder": only attend on one vector  
+  * Each output is decided independently  
+  
+# RNN Transducer(RNN-T)  
+
+## Recurrent Neural Aligner(RNA)  
+  * In RNA, we method LSTM model to CTC to make that CTC Decoder can work together.  
+  * We can add some objects in RNA to become RNN-T.  
+ 
+## RNN-T function  
+  * 
