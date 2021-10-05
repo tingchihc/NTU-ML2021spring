@@ -128,3 +128,8 @@
 ## Neural Transducer function  
  * input: a lot of h, not only one h  
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/neural%20transducer.png)  
+
+
+# Monotonic Chunkwise Attention(MoChA)  
+
+## dynamically shift the window  
