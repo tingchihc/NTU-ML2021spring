@@ -122,3 +122,9 @@
   ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rnnt.png)
   ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rnnt2.png)
   ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rnnt3.png)
+
+# Neural Transducer  
+
+## Neural Transducer function  
+ * input: a lot of h, not only one h  
+ 
