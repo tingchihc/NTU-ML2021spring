@@ -133,3 +133,5 @@
 # Monotonic Chunkwise Attention(MoChA)  
 
 ## dynamically shift the window  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/mocha.png)  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/summary.png)  
