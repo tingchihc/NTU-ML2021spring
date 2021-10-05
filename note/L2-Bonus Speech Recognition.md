@@ -120,3 +120,5 @@
  
 ## RNN-T function  
   ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rnnt.png)
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rnnt2.png)
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rnnt3.png)
