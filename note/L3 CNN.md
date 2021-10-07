@@ -48,5 +48,9 @@ YT: https://www.youtube.com/watch?v=OP5HcXJg2Aw
   * the same patterns appear in different regions.  
   * Does each receptive field need a "beak" detector?  
 
-## Simplification 2 (parameter sharing?)  
+## Simplification 2 (parameter sharing)  
   ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/simplification2.png) 
+
+## Typical Setting  
+  * filter means the parameter.  
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/filter.png) 
