@@ -52,3 +52,16 @@
   * Truncated self-attention -> attention in arange  
   ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/sa32.png)  
   
+## Self-attention for image  
+* an image can also be considered as a vector set.  
+* example:  
+  * self-attention GAN ref.: https://arxiv.org/abs/1805.08318  
+  * DEtection transformer(DETR) ref.: https://arxiv.org/abs/2005.12872  
+
+## Self-attention V.S. CNN  
+* ref.: https://arxiv.org/abs/1911.03584  
+* CNN: self-attention that can only attends in a receptive field.  
+* CNN is a simplified self-attention.  
+* Self-attention: CNN with learnable receptive field.  
+* Self-attention is the complex version of CNN.  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/sa36.png)  
