@@ -56,3 +56,4 @@ YT: https://www.youtube.com/watch?v=OP5HcXJg2Aw
   ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/filter.png) 
 
 # Benefit of Convolutional Layer  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/benefitofCNN.png) 
