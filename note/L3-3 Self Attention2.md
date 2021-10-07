@@ -32,3 +32,7 @@
     * A -> softmax -> <img src="https://latex.codecogs.com/svg.image?A^{'}" title="A^{'}" />  
     * <img src="https://latex.codecogs.com/svg.image?A^{'}" title="A^{'}" /> * V = O  
 
+## Multi-head self-attention  
+## Different types of relevance  
+  * 
+
