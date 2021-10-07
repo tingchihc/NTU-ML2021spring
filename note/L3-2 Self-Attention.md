@@ -48,3 +48,16 @@ YT: https://www.youtube.com/watch?v=gmsMY5kc-zw
 
 * Papaer [Attention is all you need] https://arxiv.org/abs/1706.03762  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/selfattention.png)  
+## How does the model operate in the Self-attention  Slide: p.13-p.18
+
+  * Step1: Find the relevant vectors in a swquence  
+  * Step2: Use Dot-product, Additive or more methods to compute the relevant vector  
+  * Step3: Compute the query, key and attention score  
+  * Step4: Use activation function(Soft-max, ReLu ...)  
+  * Step5: Extract information based on attention scores  
+  ![Image of Yaktocat]
+  ![Image of Yaktocat]
+  ![Image of Yaktocat]
+  ![Image of Yaktocat]
+  ![Image of Yaktocat]
+  ![Image of Yaktocat]
