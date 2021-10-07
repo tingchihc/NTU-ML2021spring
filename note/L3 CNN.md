@@ -43,3 +43,10 @@ YT: https://www.youtube.com/watch?v=OP5HcXJg2Aw
   * stride means that the moving step(We do not hope the bigger stride because we need the overlapping receptive field)  
   * padding means that add the value in the none value of receptive field.  
   ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/typical%20setting.png)  
+
+## Observation 2
+  * the same patterns appear in different regions.  
+  * Does each receptive field need a "beak" detector?  
+
+## Simplification 2 (parameter sharing?)  
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/simplification2.png) 
