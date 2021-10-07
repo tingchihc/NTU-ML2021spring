@@ -66,6 +66,8 @@ YT: https://www.youtube.com/watch?v=OP5HcXJg2Aw
     * Feature Map(image with 64 channels) -> Convolution(3*3*64 filters) -> ....  
 
 # Comparison of TWO stories  
+## The neurons with different receptive fields share the parameters.  
+## Each filter convolves over the input image.  
   * Neuron Version:  
     * Each neuron only considers a receptive field.  
     * The neurons with different receptive fields share the parameters.  
