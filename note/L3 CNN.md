@@ -54,3 +54,5 @@ YT: https://www.youtube.com/watch?v=OP5HcXJg2Aw
 ## Typical Setting  
   * filter means the parameter.  
   ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/filter.png) 
+
+# Benefit of Convolutional Layer  
