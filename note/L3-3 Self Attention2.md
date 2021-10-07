@@ -34,5 +34,6 @@
 
 ## Multi-head self-attention  
 ## Different types of relevance  
-  * 
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/sa27.png)
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/sa28.png)
 
