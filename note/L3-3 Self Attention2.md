@@ -60,8 +60,14 @@
 
 ## Self-attention V.S. CNN  
 * ref.: https://arxiv.org/abs/1911.03584  
+* CNN(good for less data), Self-attention(good for more data) ref.: https://arxiv.org/pdf/2010.11929.pdf  
 * CNN: self-attention that can only attends in a receptive field.  
 * CNN is a simplified self-attention.  
 * Self-attention: CNN with learnable receptive field.  
 * Self-attention is the complex version of CNN.  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/sa36.png)  
+
+## Self-attention V.S. Recurrent Neural Network(RNN)  
+  * input is a sequence.  
+  * ref.: https://arxiv.org/abs/2006.16236  
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/sa38.png)  
