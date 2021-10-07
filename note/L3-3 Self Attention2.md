@@ -49,5 +49,6 @@
   * Natural Langue Processing(NLP)  
 
 ## Self-attention for Speech  
-  * ref. https://arxiv.org/abs/1910.12977  
-  * 
+  * Truncated self-attention -> attention in arange  
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/sa32.png)  
+  
