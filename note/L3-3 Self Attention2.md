@@ -37,3 +37,18 @@
   ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/sa27.png)
   ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/sa28.png)
 
+## Positional Encoding  
+  * No position information in self-attention.  
+  * Each position has a unique positional vector <img src="https://latex.codecogs.com/svg.image?e^{i}" title="e^{i}" />  
+  * hand-crafted  
+  * learned from data  
+  * <img src="https://latex.codecogs.com/svg.image?e^{i}&plus;a^{i}&space;\rightarrow&space;q^{i},k^{i},v^{i}" title="e^{i}+a^{i} \rightarrow q^{i},k^{i},v^{i}" />  
+
+## Many applications...  
+  * Transformer, ref.: https://arxiv.org/abs/1706.03762  
+  * BERT, ref.: https://arxiv.org/abs/1810.04805  
+  * Natural Langue Processing(NLP)  
+
+## Self-attention for Speech  
+  * ref. https://arxiv.org/abs/1910.12977  
+  * 
