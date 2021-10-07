@@ -36,3 +36,10 @@ YT: https://www.youtube.com/watch?v=OP5HcXJg2Aw
     * Cover only some channels?  
     * Not square receptive field?  
   ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/simplification1.png)  
+
+## Typical Setting  
+  * all channels  
+  * kernel size means Width X Height  
+  * stride means that the moving step(We do not hope the bigger stride because we need the overlapping receptive field)  
+  * padding means that add the value in the none value of receptive field.  
+  
