@@ -42,3 +42,8 @@ YT: https://www.youtube.com/watch?v=gmsMY5kc-zw
 
   * Issues: the window can not cover the bigger or smaller sequences simultaneously.  
   ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/sequencelabeling.png)  
+
+## Self-attention  
+## Overview  
+
+* Papaer [Attention is all you need] https://arxiv.org/abs/1706.03762  
