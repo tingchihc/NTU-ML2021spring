@@ -75,3 +75,21 @@ YT: https://www.youtube.com/watch?v=OP5HcXJg2Aw
     * There are a set fo filters detectiong small patterns.  
     * Each filter convolves over the input image.  
   ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/comparison.png) 
+
+
+## Observation 3(Pooling)
+  * Subsampling the pixels will not change the object.  
+
+## Pooling - Max Pooling  
+  * Selecting the biggest value in the range, we will use the biggest value to represent.  
+
+## Convolutional Layers + Pooling  
+  * image -> Covolution -> Feature Map(image with 64 channels) -> Pooling -> Feature Map(with the lesser Width*Height*64 channels) -> ....  
+  * repeat this part(Convolution + Pooling)  
+
+## The whole CNN  
+  * image -> repeat this (Convolution -> Pooling) -> Flatten(stretch the matrix to the vector) -> Fully Connected Layers -> Softmax -> output(cat, dog ...)  
+  * Pooling is not a necessary process.  
+
+# CNN is not invariant to scaling and rotation (we need data augmentation)  
+# but one method can solve this problem -> Spatial Transformer Layer  
