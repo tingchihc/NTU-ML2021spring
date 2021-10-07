@@ -57,3 +57,19 @@ YT: https://www.youtube.com/watch?v=OP5HcXJg2Aw
 
 # Benefit of Convolutional Layer  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/benefitof%20CNN.png) 
+
+# Another story about filter  
+  * one Convolution has a lot of filters(each filter detects a small pattern. ex: 3*3*channel) channel 3 = colorful, channel 1 = black and white  
+  * !! The values in the filters are unknown parameters. (Use gradient descent to compute)  
+  * ex:  
+    * image -> Convolution(64 filters) -> Feature Map(image with 64 channels)  
+    * Feature Map(image with 64 channels) -> Convolution(3*3*64 filters) -> ....  
+
+# Comparison of TWO stories  
+  * Neuron Version:  
+    * Each neuron only considers a receptive field.  
+    * The neurons with different receptive fields share the parameters.  
+  * Filter Version:  
+    * There are a set fo filters detectiong small patterns.  
+    * Each filter convolves over the input image.  
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/comparison.png) 
