@@ -71,3 +71,11 @@
   * input is a sequence.  
   * ref.: https://arxiv.org/abs/2006.16236  
   ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/sa38.png)  
+
+## Self-attention for Graph  
+  * Consider edge: only attention to connected nodes  
+  * This is one type of Graph Neural Network(GNN)  
+
+# To learn more...
+  * https://arxiv.org/abs/2011.04006  
+  * https://arxiv.org/abs/2009.06732  
