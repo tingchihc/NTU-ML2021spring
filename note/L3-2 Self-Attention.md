@@ -47,3 +47,4 @@ YT: https://www.youtube.com/watch?v=gmsMY5kc-zw
 ## Overview  
 
 * Papaer [Attention is all you need] https://arxiv.org/abs/1706.03762  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/selfattention.png)  
