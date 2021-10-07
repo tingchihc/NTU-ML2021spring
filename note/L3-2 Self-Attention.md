@@ -41,4 +41,4 @@ YT: https://www.youtube.com/watch?v=gmsMY5kc-zw
 ## Sequence Labeling  
 
   * Issues: the window can not cover the bigger or smaller sequences simultaneously.  
-  
+  https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/sequencelabeling.png
