@@ -55,9 +55,9 @@ YT: https://www.youtube.com/watch?v=gmsMY5kc-zw
   * Step3: Compute the query, key and attention score  
   * Step4: Use activation function(Soft-max, ReLu ...)  
   * Step5: Extract information based on attention scores  
-  ![Image of Yaktocat]
-  ![Image of Yaktocat]
-  ![Image of Yaktocat]
-  ![Image of Yaktocat]
-  ![Image of Yaktocat]
-  ![Image of Yaktocat]
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/sa13.png)
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/sa14.png)
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/sa15.png)
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/sa16.png)
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/sa17.png)
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/sa18.png)
