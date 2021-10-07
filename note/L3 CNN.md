@@ -35,3 +35,4 @@ YT: https://www.youtube.com/watch?v=OP5HcXJg2Aw
     * Can different neurons have different sizes of receptive field?  
     * Cover only some channels?  
     * Not square receptive field?  
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/simplification1.png)  
