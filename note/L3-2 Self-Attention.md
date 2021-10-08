@@ -50,7 +50,7 @@ YT: https://www.youtube.com/watch?v=gmsMY5kc-zw
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/selfattention.png)  
 ## How does the model operate in the Self-attention  Slide: p.13-p.18
 
-  * Step1: Find the relevant vectors in a swquence  
+  * Step1: Find the relevant vectors in a sequence  
   * Step2: Use Dot-product, Additive or more methods to compute the relevant vector  
   * Step3: Compute the query, key and attention score  
   * Step4: Use activation function(Soft-max, ReLu ...)  
