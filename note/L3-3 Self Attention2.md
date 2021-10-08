@@ -21,7 +21,8 @@
     * <img src="https://latex.codecogs.com/svg.image?v^{i}=w^{v}a^{i}" title="v^{i}=w^{v}a^{i}" />  
   
   * Step2:  
-    * Usa k1 and q1 to compute <img src="https://latex.codecogs.com/svg.image?\alpha(1,1)&space;" title="\alpha(1,1) " />...  
+    * Usa q1 and k1 to compute <img src="https://latex.codecogs.com/svg.image?\alpha(1,1)&space;" title="\alpha(1,1) " />, use q1 and k2 to compute <img src="https://latex.codecogs.com/svg.image?\alpha(1,2)&space;" title="\alpha(1,2) " />...  
+    * Use q2 and k1 to compute <img src="https://latex.codecogs.com/svg.image?\alpha(2,1)&space;" title="\alpha(2,1) " />...  
     * <img src="https://latex.codecogs.com/svg.image?\alpha(1,1)&space;=&space;k_{1}^{T}q_{1}" title="\alpha(1,1) = k_{1}^{T}q_{1}" />  
     * <img src="https://latex.codecogs.com/svg.image?\alpha(1,2)&space;=&space;k_{2}^{T}q_{1}" title="\alpha(1,2) = k_{2}^{T}q_{1}" />  
     * <img src="https://latex.codecogs.com/svg.image?\alpha(1,3)&space;=&space;k_{3}^{T}q_{1}" title="\alpha(1,3) = k_{3}^{T}q_{1}" />  
