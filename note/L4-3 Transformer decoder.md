@@ -13,3 +13,11 @@
  * However, in the Masked self-attention, we only use the previous and present input to outrpur the vector.  
    * ex. (a1 -> b1) , (a1,a2 -> b2) , (a1,a2,a3 -> b3) , (a1,a2,a3,a4 -> b4).  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/maskedself-attention.png)  
+ * We do not know the correct output length.  
+
+## Tweet Solitaire  
+ * How to stop the output vector? Ans: adding "Stop Token"  
+ * "The Stop Token" is the one of the output in the distribution.  
+
+## Decoder - Non-autoregressive(NAT)  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/NAT.png)  
