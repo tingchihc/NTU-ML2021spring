@@ -26,3 +26,11 @@
 ## The blue elements are k and v; the green element is q.  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/2b1g.png)  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/crossattention.png)  
+
+## Transformer - Training  
+
+ * input: the acoustic signal with label.  
+ * We need that Decoder output has the minimal loss(cross entropy) with ground truth.  
+
+## Teacher Forcing: using the ground truth as input  
+
