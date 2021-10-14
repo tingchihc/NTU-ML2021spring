@@ -53,4 +53,4 @@
   * Vector(x) -> FC -> output + vector(x) -> layer normalization -> OUTPUT!!
 
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/transformer-block.png)  
- 
+ ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/blockexample.png)  
