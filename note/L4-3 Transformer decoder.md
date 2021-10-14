@@ -35,3 +35,15 @@
 ## Teacher Forcing: using the ground truth as input  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/groundtruth.png)  
 
+## Here has a mismatch. In the training, we use the groud truth; however, in the testing(inference), we do not use the ground truth.  
+
+## The tips for training the transformer  
+## Copy Mechanism  
+  * in the Machine Translation, we will copy some words in the input.  
+  * ex. Summarization: input(document) -> Model -> output(summary)  
+
+## Guided Attention - Monotonic attention, Location-aware attention  
+  * In some tasks, input and output are monotonically aligned.  
+  * ex.: speech recognition, TTS, etc.  
+
+## Beam Search  
