@@ -46,4 +46,11 @@
 
 ## Transformer - Encoder  
  * input: a vector, output: a vector.  
+ * In the block,  
+  * Input(a sequence vector) -> self-attention -> output(vector a)
+  * Residual connection: output(vector a) + input(vector b)  
+  * Vector(a+b) -> layer normalization -> vector(x)  
+  * Vector(x) -> FC -> output + vector(x) -> layer normalization -> OUTPUT!!
+
+ ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/transformer-block.png)  
  
