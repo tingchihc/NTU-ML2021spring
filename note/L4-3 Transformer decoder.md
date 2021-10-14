@@ -36,6 +36,8 @@
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/groundtruth.png)  
 
 ## Here has a mismatch. In the training, we use the groud truth; however, in the testing(inference), we do not use the ground truth.  
+## The mismatch is exposure bias  
+  * Solution: scheduled sampling  
 
 ## The tips for training the transformer  
 ## Copy Mechanism  
@@ -47,3 +49,14 @@
   * ex.: speech recognition, TTS, etc.  
 
 ## Beam Search  
+  * Randomness is needed for decoder when generating sequence in some tasks.  
+  * Accept that nothing is perfect. True beauty lies in the cracks of imperfection.  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/beamsearch02.png)  
+
+## Optimizing Evaluation Metrics?  
+  * In the training, we focus on the minimal loss(method is cross entropy).  
+  * In the testing(inference), we use the output and ground truth to caculate BLEU score.  
+  * The minimal cross entropy loss model does not have the great BLEU score in the testing.  
+
+## So how to do the optimization? Ans: When you do not know how to optimize, just use RL!  
+
