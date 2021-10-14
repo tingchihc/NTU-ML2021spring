@@ -42,3 +42,8 @@
 ## seq2seq overview  
  * input(sequence) -> Encoder -> Decoder -> output(sequence)  
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/transformer.png)  
+
+
+## Transformer - Encoder  
+ * input: a vector, output: a vector.  
+ 
