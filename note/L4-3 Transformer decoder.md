@@ -24,4 +24,4 @@
 
 ## Encoder-Decoder (two blue input is from encoder, one green input is from decoder)  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/2b1g.png)  
- 
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/crossattention.png)  
