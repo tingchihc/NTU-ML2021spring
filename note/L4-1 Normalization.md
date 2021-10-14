@@ -17,5 +17,7 @@
  <img src="https://latex.codecogs.com/svg.image?\gamma&space;" title="\gamma " /> is a all 1 vectore.  
  <img src="https://latex.codecogs.com/svg.image?\beta&space;" title="\beta " /> is a all 0 vector in first step.   
  This two vectors need to learn from model.  
+ 
+ 
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/considering1.png)  
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/considering2.png)  
