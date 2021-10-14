@@ -33,4 +33,5 @@
  * We need that Decoder output has the minimal loss(cross entropy) with ground truth.  
 
 ## Teacher Forcing: using the ground truth as input  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/groundtruth.png)  
 
