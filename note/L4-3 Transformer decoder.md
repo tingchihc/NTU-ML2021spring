@@ -23,5 +23,6 @@
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/NAT.png)  
 
 ## Encoder-Decoder (two blue input is from encoder, one green input is from decoder)  
+## The blue elements are k and v; the green element is q.  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/2b1g.png)  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/crossattention.png)  
