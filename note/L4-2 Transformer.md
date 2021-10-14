@@ -54,3 +54,9 @@
 
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/transformer-block.png)  
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/blockexample.png)  
+ * Positional Encoding: this is positional information because the self-attention's input does not have the positional information.  
+ * Multi-Head attention: one of the self-attention methods.  
+ * Add & Norm: residual connection and layer normalization.  
+ * Feed Forward: Fully Connected layer.  
+ ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/encoder%20architecture.png)  
+ 
