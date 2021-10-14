@@ -8,4 +8,4 @@
   * If the model has a error service, the batch normalization is a great method to use.  
 
 ## Feature Normalization  
-  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/.png)
+  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/feature%20normalization.png)
