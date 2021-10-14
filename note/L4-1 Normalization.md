@@ -21,3 +21,8 @@
  
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/considering1.png)  
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/considering2.png)  
+
+## Batch normalization - Testing(Inference)  
+
+  * We do not always have batch at testing stage.  
+  * Computing the moving average of mean and standard deviation of the batches during training.  
