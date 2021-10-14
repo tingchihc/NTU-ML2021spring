@@ -12,4 +12,4 @@
  * In the self-attention, the output vector(b1,b2,b3,b4) depend on the whole input vector(a1,a2,a3,a4).  
  * However, in the Masked self-attention, we only use the previous and present input to outrpur the vector.  
    * ex. (a1 -> b1) , (a1,a2 -> b2) , (a1,a2,a3 -> b3) , (a1,a2,a3,a4 -> b4).  
-![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/masked%20self-attention.png)  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/maskedself-attention.png)  
