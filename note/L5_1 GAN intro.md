@@ -23,3 +23,4 @@
  * output: scalar(larger value means real, smaller value value fake.)  
 
 ## 3. Basic idea of GAN  
+https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/GAN%20basic%20idea.png
