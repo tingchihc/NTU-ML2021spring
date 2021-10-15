@@ -37,3 +37,5 @@
 ## Step2:  
  * Fix discriminator D, and update generator G.  
  * Generator learns to "fool" the discriminator.  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/GAN%20alg.png)  
+
