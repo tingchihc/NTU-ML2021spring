@@ -24,3 +24,16 @@
 
 ## 3. Basic idea of GAN  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/GAN%20basic%20idea.png)  
+
+## Algorithm:  
+ * Initialize generator and discriminator.  
+ * In each training iteration:  
+
+## Step1:  
+ * Fix generator G, and update discriminator D.  
+ * Database -> Sample (to update D).  
+ * Discriminator learns to assign high scores to real objects and low scores to generated objects.  
+
+## Step2:  
+ * Fix discriminator D, and update generator G.  
+ * Generator learns to "fool" the discriminator.  
