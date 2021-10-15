@@ -39,3 +39,4 @@
  * Generator learns to "fool" the discriminator.  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/GAN%20alg.png)  
 
+## Progressive GAN ref. https://arxiv.org/abs/1710.10196  
