@@ -3,3 +3,8 @@
 # YT:  
   * https://www.youtube.com/watch?v=4OWp0wDu6Xw  
 
+## Generative Adversarial Network(GAN)  
+## Network as Generator  
+ * ex.: input [x,Simple Distribution z] -> Network(Generator) -> output [Complex Distribution y]  
+ * z: we know its formulation, so we can sample from it.  
+ * 
