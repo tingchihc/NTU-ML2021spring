@@ -11,3 +11,15 @@
 ## Why Generator? Why distribution?  
  * Especially for the tasks needs "creativity".  
  * The same input has different outputs.  
+
+## Example: Anime Face Generation  
+## 1. Unconditional generation  
+ * input: Normal Distribution z (low-dim vector) ex: [0.3,-0.1...-0.7]  
+ * output: Complex Distribution y (high-dim vector)  
+ * input -> Generator -> output  
+
+## 2. Discriminator - it is a neural network  
+ * input: image  
+ * output: scalar(larger value means real, smaller value value fake.)  
+
+## 3. Basic idea of GAN  
