@@ -7,4 +7,7 @@
 ## Network as Generator  
  * ex.: input [x,Simple Distribution z] -> Network(Generator) -> output [Complex Distribution y]  
  * z: we know its formulation, so we can sample from it.  
- * 
+
+## Why Generator? Why distribution?  
+ * Especially for the tasks needs "creativity".  
+ * The same input has different outputs.  
