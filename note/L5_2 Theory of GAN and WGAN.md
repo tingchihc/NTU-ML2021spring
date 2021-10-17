@@ -9,3 +9,6 @@
   ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/discriminator%20binary%20classifier.png)  
   ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/theory%20gan.png)  
   
+## Tips for training GAN  
+
+  * 
