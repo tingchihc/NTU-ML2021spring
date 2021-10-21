@@ -28,3 +28,4 @@
  * Wasserstein distance: the average distance that the earth mover has to move.  
  * There are many possible "moving plans". Using the "moving plan" with the smallest average distance to define the Wasserstein distance.  
  
+![Image of Yaktocat(https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/theory%20gan%20and%20wgan.png)
