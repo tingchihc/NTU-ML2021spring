@@ -17,3 +17,9 @@
 
 ## Frechet Inception Distance(FID)  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/FID.png)  
+
+## Conditional Generation  
+
+ * x(condition) + z(distribution) -> Generator -> y(complex distribution)  
+ * application: Text-to-image(need label data)  
+![Image of Yaktocat]
