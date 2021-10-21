@@ -9,3 +9,4 @@
  * ex: y(image) -> off-the-shelf image classifier -> p(c|y) [Concentrated distribution means higher visual quality]  
 
 ## Problem of evaluation - Diversity - mode collapse  
+https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/mode%20collapse.png
