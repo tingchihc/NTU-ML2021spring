@@ -22,4 +22,4 @@
 
  * x(condition) + z(distribution) -> Generator -> y(complex distribution)  
  * application: Text-to-image(need label data)  
-![Image of Yaktocat]
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/Conditional%20GAN1.png)  
