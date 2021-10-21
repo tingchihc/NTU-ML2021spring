@@ -12,3 +12,4 @@
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/mode%20collapse.png)  
 
 ## Problem of evaluation - Diversity - mode dropping  
+ ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/mode%20dropping.png)
