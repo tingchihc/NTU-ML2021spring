@@ -13,3 +13,7 @@
 
 ## Problem of evaluation - Diversity - mode dropping  
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/mode%20dropping.png)
+
+
+## Frechet Inception Distance(FID)  
+![Image of Yaktocat]()
