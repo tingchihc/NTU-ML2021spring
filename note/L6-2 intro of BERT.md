@@ -28,3 +28,13 @@
    * Premise: a person on a horse jumps over a broken down airplane.  
    * Hypothesis: a person is at a diner.  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/case3.png)  
+
+## Case 4: Extraction-based Question Answering(QA)  
+ * Example:
+   * Document: D = {d1,d2,...,dn}  
+   * Query: Q = {q1,q2,...,qn}  
+   * (D,Q) -> QA Model -> (s,e)  
+   * output: two integers(s,e)  
+   * answer: A = {ds,...,de}  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/case4-1.png)  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/case4-2.png)  
