@@ -16,3 +16,6 @@
 
 ## Case 1: Sentiment analysis  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/case1.png)  
+
+## Case 2: POS tagging  
+![Image of Yaktocat]()  
