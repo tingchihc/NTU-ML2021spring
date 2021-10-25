@@ -3,3 +3,5 @@
 ## Self-supervised Learning  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/self-supervised%20learning.png)  
 
+## BERT  
+![Image of Yaktocat]()
