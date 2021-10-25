@@ -20,3 +20,11 @@
 ## Case 2: POS tagging  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/case2.png)  
 
+## Case 3: Natural Language Inference(NLI)  
+ * input: 2 sequences  
+ * output: a class  
+ * Example:  
+  * (Premise + Hypothesis) -> Model -> (contradiction, entailment, neutral)  
+  * Premise: a person on a horse jumps over a broken down airplane.  
+  * Hypothesis: a person is at a diner.  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/case3.png)  
