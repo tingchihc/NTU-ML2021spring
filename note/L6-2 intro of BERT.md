@@ -15,4 +15,4 @@
 ## Self-supervised Learning (pre-train) -> BERT (Fine-tine) -> Model for Task1, Task2, Task3  
 
 ## Case 1: Sentiment analysis  
-![Image of Yaktocat]()  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/case1.png)  
