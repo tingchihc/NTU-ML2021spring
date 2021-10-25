@@ -1,7 +1,18 @@
 ## YT  
   * https://www.youtube.com/watch?v=gh0hewYkjgo  
+
 ## Self-supervised Learning  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/self-supervised%20learning.png)  
 
 ## BERT  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/BERT.png)  
+ * Masked token prediction  
+ * Next sentence prediction  
+ * Downstream Tasks:  
+  * The tasks we care  
+  * We have a little bit labeled data  
+
+## Self-supervised Learning (pre-train) -> BERT (Fine-tine) -> Model for Task1, Task2, Task3  
+
+## Case 1: Sentiment analysis  
+![Image of Yaktocat]()  
