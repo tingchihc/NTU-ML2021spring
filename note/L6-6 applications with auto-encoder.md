@@ -19,4 +19,6 @@
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/discrete%20representation.png)  
 
 ## More Applications  
-![Image of Yaktocat]
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/auto-encodr%20generator.png)  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/auto-encodr%20compression.png)  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/auto-encodr%20anomaly%20detection.png)  
