@@ -16,5 +16,5 @@
   * Finding the different pattern in the image, auto-encoder uses low-dim vector to record the high-dim image.  
 
 ## De-noising Auto-encoder and BERT  
-![Image of Yaktocat]()  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/de-noising%20auto-encoder.png)  
 ![Image of Yaktocat]()  
