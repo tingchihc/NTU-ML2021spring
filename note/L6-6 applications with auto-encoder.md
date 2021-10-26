@@ -11,4 +11,4 @@
   * People can clearly know information in each position.  
 
 ## Application: voice conversion  
-https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/voice%20conversion.png
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/voice%20conversion.png)  
