@@ -17,4 +17,4 @@
 
 ## De-noising Auto-encoder and BERT  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/de-noising%20auto-encoder.png)  
-![Image of Yaktocat]()  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/review%20BERT.png)  
