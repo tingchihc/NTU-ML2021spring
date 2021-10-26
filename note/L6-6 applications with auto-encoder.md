@@ -21,4 +21,6 @@
 ## More Applications  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/auto-encodr%20generator.png)  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/auto-encoder%20compression.png)  
+
+## Anomaly Detection -> Fraud Detection, Network Intrusion Detection, Cancer Detection  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/auto-encoder%20anomaly%20detection.png)  
