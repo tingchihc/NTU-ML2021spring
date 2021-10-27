@@ -21,3 +21,9 @@
 
 ## Proactive Defense
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/proactive%20defense.png)  
+
+## Concluding Remarks  
+  * Attack: given the network parameters, attack is very easy.  
+  * Even black box attack is possible.  
+  * Defense: passive and proactive.  
+  * Attack/Defense are still envolving.  
