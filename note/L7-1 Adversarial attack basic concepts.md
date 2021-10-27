@@ -23,3 +23,8 @@
 
 ## Attack approach  
 <img src="https://latex.codecogs.com/svg.image?x^{*}&space;=&space;arg&space;\underset{d(x^{0},x)\leq&space;\varepsilon&space;}{min}&space;L(x)" title="x^{*} = arg \underset{d(x^{0},x)\leq \varepsilon }{min} L(x)" />  
+
+## Method 1: Gradient Descent and L-infinity  
+  * Start from original image x  
+  * For t = 1 to T  
+  * <img src="https://latex.codecogs.com/svg.image?x^{t}&space;\leftarrow&space;x^{t-1}-\eta&space;g" title="x^{t} \leftarrow x^{t-1}-\eta g" />  
