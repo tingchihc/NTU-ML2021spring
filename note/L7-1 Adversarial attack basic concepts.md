@@ -29,3 +29,15 @@
   * For t = 1 to T  
   * <img src="https://latex.codecogs.com/svg.image?x^{t}&space;\leftarrow&space;x^{t-1}-\eta&space;g" title="x^{t} \leftarrow x^{t-1}-\eta g" />  
   * if <img src="https://latex.codecogs.com/svg.image?d(x^{0},x^{t})&space;>&space;\varepsilon&space;,&space;x^{t}&space;\leftarrow&space;fix(x^{t})" title="d(x^{0},x^{t}) > \varepsilon , x^{t} \leftarrow fix(x^{t})" />  
+
+## Method 2: Fast Gradient Sign Method(FGSM) arxiv.org/abs/1412.6572  
+  * Start from original image x  
+  * For t = 1  
+  * <img src="https://latex.codecogs.com/svg.image?x^{t}\leftarrow&space;x^{t-1}-\eta&space;g" title="x^{t}\leftarrow x^{t-1}-\eta g" />  
+  * <img src="https://latex.codecogs.com/svg.image?\eta=\varepsilon&space;,g=&space;[1,-1,1,-1,...]&space;" title="\eta=\varepsilon ,g= [1,-1,1,-1,...] " />  
+
+## Method 3: Iterative FGSM  
+  * Start from original image x  
+  * For t = 1 to T  
+  * <img src="https://latex.codecogs.com/svg.image?x^{t}&space;\leftarrow&space;x^{t-1}-\eta&space;g" title="x^{t} \leftarrow x^{t-1}-\eta g" />  
+  * if <img src="https://latex.codecogs.com/svg.image?d(x^{0},x^{t})&space;>&space;\varepsilon&space;,&space;x^{t}&space;\leftarrow&space;fix(x^{t})" title="d(x^{0},x^{t}) > \varepsilon , x^{t} \leftarrow fix(x^{t})" />  
