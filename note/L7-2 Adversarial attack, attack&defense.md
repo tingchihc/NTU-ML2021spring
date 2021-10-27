@@ -9,3 +9,14 @@
   * Training a proxy network yourself and using the proxy network to generate attacked objects  
 
 ## What if we do not know the training data?  using test data pair(input,output) to attack.  
+## Defense passive & proactive  
+
+## Passive Defense (Filter: smoothing)  
+  * input(original img + attack signal) -> Filter(e.g. smoothing) -> (img + less harmful) -> Network -> normal output  
+
+## Passive Defense (image compression)  
+## Passive Defense (Generator)  
+## Passive Defense - Randomization  
+  * https://arxiv.org/abs/1711.01991  
+
+## Proactive Defense
