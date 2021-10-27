@@ -15,3 +15,8 @@
   * x is close with x0 and humans can not perceive the distance.  
   * y is as far as y(head) and as close as y(target).  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/how%20to%20attack.png)  
+
+## Non-perceivable  
+
+  * The smaller L-infinity is hard to notice; the larger L-infinity is easy.  
+![Image of Yaktocat]()
