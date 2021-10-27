@@ -19,4 +19,7 @@
 ## Non-perceivable  
 
   * The smaller L-infinity is hard to notice; the larger L-infinity is easy.  
-![Image of Yaktocat]()
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/non-perceivable.png)  
+
+## Attack approach  
+<img src="https://latex.codecogs.com/svg.image?x^{*}&space;=&space;arg&space;\underset{d(x^{0},x)\leq&space;\varepsilon&space;}{min}&space;L(x)" title="x^{*} = arg \underset{d(x^{0},x)\leq \varepsilon }{min} L(x)" />  
