@@ -12,6 +12,6 @@
   * Attack: attacked img(benign img + small noisy) -> Network(image classifier) -> output(not cat)  
 
 ## How to attack  
-  * 1. x is close with x0 and humans can not perceive the distance.  
-  * 2. y is as far as y(head) and as close as y(target).  
+  * x is close with x0 and humans can not perceive the distance.  
+  * y is as far as y(head) and as close as y(target).  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/how%20to%20attack.png)  
