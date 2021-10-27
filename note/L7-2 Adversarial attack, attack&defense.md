@@ -20,4 +20,4 @@
   * https://arxiv.org/abs/1711.01991  
 
 ## Proactive Defense
-https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/proactive%20defense.png
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/proactive%20defense.png)  
