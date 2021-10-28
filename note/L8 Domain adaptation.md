@@ -13,3 +13,4 @@
   * Challenge: only limited target data, so be careful about overfitting  
 
 ## Basic idea  
+![Image of Yaktocat]()
