@@ -13,4 +13,4 @@
   * Challenge: only limited target data, so be careful about overfitting  
 
 ## Basic idea  
-![Image of Yaktocat]()
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/basic%20idea.png)  
