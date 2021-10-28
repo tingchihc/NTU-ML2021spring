@@ -15,3 +15,17 @@
   * Method:  
     * Removing or modifying the components  
     * Large decision change -> important component  
+
+## Saliency map  
+  * the light dot in the image can represent which parts are important in the image.  
+
+## Limitation: noisy gradient  
+  * SmoothGrad: Randomly add noises to the input image, get saliency maps of the noisy images, and average them.  
+
+## Limitation: gradient saturation  
+  * Gradient cannot always reflect importance  
+  * Alternative: Integrated gradient(IG)  
+
+## How a network processes the input data?  
+  * visualization  
+  * proding  
