@@ -16,3 +16,5 @@
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/basic%20idea.png)  
 
 ## Domain Adversarial Training ~ GAN  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/dat1.png)
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/dat2.png)
