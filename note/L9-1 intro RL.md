@@ -16,3 +16,4 @@
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rl3.png)  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rl4.png)  
 ## 3) optimization  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rl5.png)  
