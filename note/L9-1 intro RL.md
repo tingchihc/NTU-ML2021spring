@@ -9,5 +9,10 @@
   * machine can know the results are good or not.  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rl1.png)  
 
-## RL like ML Step: 1) function with unknown 2) define loss from training data 3) optimization  
+## RL like ML Step:  
+## 1) function with unknown  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rl2.png)  
+## 2) define loss from training data  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rl3.png)  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rl4.png)  
+## 3) optimization  
