@@ -7,3 +7,4 @@
 ## Reinforcement Learning  
   * It is challenging to label data in some tasks.  
   * machine can know the results are good or not.  
+
