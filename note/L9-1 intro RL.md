@@ -12,7 +12,7 @@
 ## RL like ML Step:  
 ## 1) function with unknown  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rl2.png)  
-## 2) define loss from training data  
+## 2) define loss from training data, Total reward(return) what we want to maximize  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rl3.png)  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rl4.png)  
 ## 3) optimization  
