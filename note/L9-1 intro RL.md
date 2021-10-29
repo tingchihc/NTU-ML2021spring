@@ -27,4 +27,5 @@
   Take action <img src="https://latex.codecogs.com/svg.image?\hat{a},L=e" title="\hat{a},L=e" />  
   Don't take action <img src="https://latex.codecogs.com/svg.image?\hat{a},L=-e" title="\hat{a},L=-e" />  
   <img src="https://latex.codecogs.com/svg.image?\theta&space;^{*}=arg\underset{\theta&space;}{min}L" title="\theta ^{*}=arg\underset{\theta }{min}L" />  
+  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rl6.png)  
