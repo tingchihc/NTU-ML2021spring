@@ -8,3 +8,6 @@
   * It is challenging to label data in some tasks.  
   * machine can know the results are good or not.  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rl1.png)  
+
+## RL like ML Step: 1) function with unknown 2) define loss from training data 3) optimization  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rl2.png)  
