@@ -29,3 +29,6 @@
   <img src="https://latex.codecogs.com/svg.image?\theta&space;^{*}=arg\underset{\theta&space;}{min}L" title="\theta ^{*}=arg\underset{\theta }{min}L" />  
   
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rl6.png)  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rl7.png)  
+
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rl8.png)  
