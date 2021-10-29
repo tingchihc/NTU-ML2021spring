@@ -17,3 +17,9 @@
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rl4.png)  
 ## 3) optimization  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/rl5.png)  
+
+## Optimization -> policy gradient  
+## How to control your actor  
+  * make it take(or don not take) a specific action given specific observation.  
+  * ex:  
+  observation(s) -> Actor(<img src="https://latex.codecogs.com/svg.image?\theta&space;" title="\theta " />) -> Action a(left,right,fire) <-> <img src="https://latex.codecogs.com/svg.image?\hat{a}" title="\hat{a}" />
