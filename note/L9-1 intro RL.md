@@ -22,4 +22,8 @@
 ## How to control your actor  
   * make it take(or don not take) a specific action given specific observation.  
   * ex:  
-  observation(s) -> Actor(<img src="https://latex.codecogs.com/svg.image?\theta&space;" title="\theta " />) -> Action a(left,right,fire) <-> <img src="https://latex.codecogs.com/svg.image?\hat{a}" title="\hat{a}" />
+  observation(s) -> Actor(<img src="https://latex.codecogs.com/svg.image?\theta&space;" title="\theta " />) -> Action a(left,right,fire) <-> <img src="https://latex.codecogs.com/svg.image?\hat{a}" title="\hat{a}" />  
+  e = cross-entropy with <img src="https://latex.codecogs.com/svg.image?\left&space;(&space;a,\hat{a}&space;\right&space;)" title="\left ( a,\hat{a} \right )" />  
+  Take action <img src="https://latex.codecogs.com/svg.image?\hat{a},L=e" title="\hat{a},L=e" />  
+  Don't take action <img src="https://latex.codecogs.com/svg.image?\hat{a},L=-e" title="\hat{a},L=-e" />  
+  <img src="https://latex.codecogs.com/svg.image?\theta&space;^{*}=arg\underset{\theta&space;}{min}L" title="\theta ^{*}=arg\underset{\theta }{min}L" />  
