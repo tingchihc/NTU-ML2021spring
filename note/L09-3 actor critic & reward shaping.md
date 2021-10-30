@@ -1,5 +1,6 @@
 ## yt  
   * https://www.youtube.com/watch?v=kk6DqWreLeU  
+  * https://www.youtube.com/watch?v=73YyF1gmIus  
 
 ## Actor-critic  
   * Critic: Given actor 𝜃, how good it is when observing 𝑠 (and taking action 𝑎)  
