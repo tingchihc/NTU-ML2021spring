@@ -18,3 +18,6 @@
   * 𝑉𝜃(𝑠𝑡+1) = 𝑟𝑡+1 + 𝛾𝑟𝑡+2 …  
   * 𝑉𝜃(𝑠𝑡+1) = 𝛾𝑉𝜃(𝑠𝑡)+rt  
 
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/version3.5.png)  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/version4.png)  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/tipofactor-critic.png)  
