@@ -9,3 +9,5 @@
    * Actor can interact with the environment, but reward function is not available  
    * We have demonstration of the expert.  
 
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/irl.png)  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/irl2.png)  
