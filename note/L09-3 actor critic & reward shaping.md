@@ -21,3 +21,6 @@
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/version3.5.png)  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/version4.png)  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/tipofactor-critic.png)  
+
+## Reward shaping -> The developers define extra rewards to guide agents  
+  * If 𝑟𝑡 = 0 in most cases -> We don’t know actions are good or bad.  
