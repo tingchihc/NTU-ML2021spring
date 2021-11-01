@@ -5,3 +5,8 @@
   * https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/tiny_v7.pdf  
 
 ## Network Compression  
+  * Less parameters  
+  * latency, Privacy  
+
+## 1) Network pruning  
+  * 
