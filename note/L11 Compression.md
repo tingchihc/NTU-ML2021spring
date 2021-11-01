@@ -18,3 +18,4 @@
     * easy to implement, easy to speedup  
 
 ## Lottery Ticket Hypothesis  
+ ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/lottery.png)  
