@@ -21,3 +21,10 @@
 ## Selective Synaptic Plasticity - Regularization based Approach  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/lll2.png)  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/lll3.png)  
+
+## Additional Neural Resource allocation  
+  * progressive NN -> the worse thing is to add NN infinity.  
+  * PackNet -> the same idea with progressive NN  
+
+## Memory reply  
+ ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/lll4.png)  
