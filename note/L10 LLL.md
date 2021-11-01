@@ -12,7 +12,7 @@
 ## Catastrophic forgetting(Multi-task training can be considered as the upper bound of LLL)  
  * Computation issue: Using all the data for training  
  * Storage issue: Always keep the data  
-
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/lll1.png)  
 ## Evaluation - LLL  
  * https://arxiv.org/pdf/1904.07734.pdf  
  * Accuracy, Backward transfer, Forward transfer  
