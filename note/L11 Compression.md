@@ -9,4 +9,12 @@
   * latency, Privacy  
 
 ## 1) Network pruning  
-  * 
+  * Networks are typically over-parameterized (there is significant redundant weights or neurons)  
+  * (1. importance of weight, (2. importance of a neuron, (3. fine-tuning  
+  * Pre-trained Network(large) -> Evaluate the importance -> Remove(smaller) -> Fine-tune -> small enough? -> Evalute? -> smaller network  
+  * Weight pruning:  
+    * hard to implement, hard to speedup  
+  * Neuron pruning:
+    * easy to implement, easy to speedup  
+
+## Lottery Ticket Hypothesis  
