@@ -19,3 +19,5 @@
 
 ## Research directions - Catastrophic forgetting  
 ## Selective Synaptic Plasticity - Regularization based Approach  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/lll2.png)  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/lll3.png)  
