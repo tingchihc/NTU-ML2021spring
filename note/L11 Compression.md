@@ -37,3 +37,7 @@
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/ds1.png)  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/ds2.png)  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/ds3.png)  
+
+## 5) Dynamic Computation  
+  * The network adjusts the computation it need  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/dd1.png)  
