@@ -20,3 +20,7 @@
 
 ## Lottery Ticket Hypothesis  
  ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/lottery.png)  
+ 
+ 
+## 2) Knowledge distillation  
+  * make student Net to like teacher Net's output  
