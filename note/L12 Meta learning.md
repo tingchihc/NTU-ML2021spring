@@ -19,5 +19,6 @@
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/meta6.png)  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/meta7.png)  
 ## Goal -> ≈ find a function F that finds a function f  
-## Support set -> the training data in training tasks, Query set -> the testing data in training tasks  
+## Support set -> the training data in training tasks  
+## Query set -> the testing data in training tasks  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/meta8.png)  
