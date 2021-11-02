@@ -24,3 +24,6 @@
  
 ## 2) Knowledge distillation  
   * make student Net to like teacher Net's output  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/knowledge%20distillation1.png)  
+  * Temperature for softmax:  this can make model know the distribution  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/kd2.png)  
