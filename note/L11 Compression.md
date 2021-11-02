@@ -27,3 +27,13 @@
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/knowledge%20distillation1.png)  
   * Temperature for softmax:  this can make model know the distribution  
 ![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/kd2.png)  
+
+## 3) Parameter quantization  
+  * Using less bits to represent a value  
+  * Weight clustering: to make each weights in a network has alike weight.  Maybe save weight in Table.  
+
+## 4) Architecture Design -> Depthwise Separable Convolution  
+  * Depthwise -> Pointwise
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/ds1.png)  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/ds2.png)  
+![Image of Yaktocat](https://github.com/ting-chih/NTU-ML2021spring/blob/main/image/ds3.png)  
