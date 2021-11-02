@@ -7,3 +7,5 @@
 
 ## Meta Learning  
 ## Can machine automatically determine the hyperparameters?  
+  * What is learnable in a learning algorithm?  
+  * Component: Net Architecture, Initial Parameters, Learning Rate  
